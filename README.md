@@ -1,4 +1,6 @@
 # Animal-classification-with-a-CNN
+This should serve as a nice introduction to neural networks beyond the standard linear layer 'vanilla' NNs.
+
 This is a model classifing images into classes of dogs, horses, elephants, butterflies and squirrels
 Convolutional neural networks are widely used in image classification problems and serve as an important stepping stone into graph NN and more complicated architectures.
 

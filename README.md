@@ -1,15 +1,16 @@
 # Animal-classification-with-a-CNN
 This should serve as a nice introduction to neural networks beyond the standard linear layer 'vanilla' NNs.
 
-This is a model classifing images into classes of dogs, horses, elephants, butterflies and squirrels
+This is a model classifing images into classes of dogs, horses, elephants, butterflies and squirrels, and can go well above 90%.
+
 Convolutional neural networks are widely used in image classification problems and serve as an important stepping stone into graph NN and more complicated architectures.
 
 Note some of the following:
 
--The number of layers and hyperparemeters, as well as for exmaple using SGD instead of Adam is arbitrary and most definitely not optimal.
+-The number of layers and hyperparemeters, as well as for exmaple using SGD instead of Adam is arbitrary and not completely optimzed.
 
 
--If we wanted to get the best possible performance we would split the train data set further to get a validation set and implement early stopping.
+-If we wanted to get the better performance we would split the train data set further to get a validation set and implement early stopping.
 
 
 -When running the code obviously need to change path.
